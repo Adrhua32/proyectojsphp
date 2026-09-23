@@ -16,7 +16,7 @@ $precioFinal = $precio + $precioIGV - $precioDescuento;
 //Modo javascript: console.log (el precio del producto es; " , precio);
 echo "El precio del producto ess: S/ " . $precio . "<br>";
 echo "El IGV es: S/ " . $precioIGV . "<br>";
-echo "El descuento ess: S/" . $precioDescuento . "<br>";
+echo "El descuento hhh: S/" . $precioDescuento . "<br>";
 echo "El precio final es: S/" . $precioFinal . "<br>";
 
 
